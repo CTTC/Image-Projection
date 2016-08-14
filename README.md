@@ -9,4 +9,4 @@ respects perspective.
 For more details, please refer to Coursera [Robotics:Perception](https://www.coursera.org/learn/robotics-perception/home/week/2) Course Week 2 programming assignment.
 
 After running the codes, you can see a video like this:
-!(snapshot)[example.bmp]
+![snapshot](example.bmp)
